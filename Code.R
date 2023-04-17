@@ -48,3 +48,4 @@ plot_measures(area,
 
 write.csv(area, file = "leaf features.csv", row.names = FALSE)
 
+#https://tiagoolivoto.github.io/pliman/articles/leaf_area.html
